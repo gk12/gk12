@@ -26,3 +26,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gk12&" alt="gk12" /></p>
 
+[![@gk12's Holopin board](https://holopin.me/gk12)](https://holopin.io/@gk12)
